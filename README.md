@@ -11,6 +11,7 @@ Custom модель, с небольшим количеством сверточ
 
 При инференсе использовалось ускоренее с помощью TensorRT, однако есть возможность отключения ускорения при создании экземпляра класса в Emotion_Recognition_main.
 
+Результат работы нейросети показан ниже
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/106436340/189472946-20329d9e-6114-4f60-a825-df1a852927a1.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106436340/189473047-fadfba64-67c4-4bbb-8137-4f4dc0ba5621.gif)
 
